@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: black;
+}
+#headimg {
+    padding: 30px;
+    height: 426px;
+    width: 972px;
+}
+#navgt{
+    background-color: rgb(150, 84, 84);
+    width: 100%;
+    height: 45px;
+}
+ul {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+ol{
+    margin: 9px 0px 0px 0px;
+    font-size: 1.3rem ;
+    font-weight: bold;
+    list-style: none;
+}
+#statics{
+    justify-content: center;
+    margin: 145px;
+}
+/* #staticsprgrf{
+
+} */
+p {
+    margin: 0px 0px 45px 0px;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+/* #staticsnmbar{
+    
+} */
+#staticsnmbarul ol {
+    margin: 9px 0px 0px 0px;
+    font-size: 3rem;
+    font-weight: bold;
+    list-style: none;
+}
+#showdooh{
+    padding: 50px;
+    background-color: blanchedalmond;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;  
+}
+#showdooh img{
+    height: 272px;
+    height: 100px;
+    width: 100px;
+}
+#showdooh p{
+    margin: 0px 0px 45px 0px;
+    font-size: 1.8rem;  
+}
+/* .tietldiv{
+    display: block;
+} */
+.tietl {
+    margin-top: 29px;
+    margin-left: 521px;
+    font-size: 1.8rem;
+    font-weight: bold
+}
+#vido{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+}
+#compne{
+    background-color: black;
+    width: 100%;
+    height: 200px;  
+}
+
+
+
+
+
+footer{
+    background-color: bisque;
+    width: 100%;
+    height: 400px;
+}
